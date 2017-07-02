@@ -1,6 +1,10 @@
-# Folders to ignore
-bower_components
-node_modules
-
-# Numerous always-ignore extensions
+*.DS_Store
 *.log
+*.zip
+.idea
+.sass-cache/
+/nbproject/
+/nbproject/private/
+/node_modules/
+/bower_components/
+TODO
